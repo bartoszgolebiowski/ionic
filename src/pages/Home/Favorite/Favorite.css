@@ -1,0 +1,4 @@
+#favorite::part(background) {
+  --background: url(https://images.unsplash.com/photo-1464802686167-b939a6910659?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1333&q=80)
+    0 0/100% 100% no-repeat;
+}

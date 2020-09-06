@@ -1,0 +1,6 @@
+ion-slides {
+  height: calc(100% - 3.5rem);
+}
+ion-tab-bar {
+  height: 3.5rem;
+}
